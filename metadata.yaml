@@ -1,0 +1,35 @@
+_repo: The-Canterbury-pilgrims-b-A-comedy_70526
+_version: 0.0.1
+creator:
+  author:
+    agent_name: MacKaye, Percy
+    alias: Mackaye, Percy
+    birthdate: 1875
+    deathdate: 1956
+    gutenberg_agent_id: '7390'
+    url: http://www.gutenberg.org/2009/agents/7390
+    wikipedia: https://en.wikipedia.org/wiki/Percy_MacKaye
+description: ''
+gutenberg_issued: '2023-04-11'
+identifiers:
+  gutenberg: '70526'
+language: en
+pgterms:marc905: 20170524221606mackaye
+pgterms:marc906: '1903'
+pgterms:marc907: US
+production_note: Mary Glenn Krause, Charlene Taylor, Krista Zaleski and the Online
+  Distributed Proofreading Team at https://www.pgdp.net (This file was produced from
+  images generously made available by The Internet Archive/American Libraries.)
+publication_note: '  $aUnited States :$bThe Macmillan Company, $c1903, reprint 1908,
+  reprint 1909.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'American drama -- 20th century'
+- !lcsh 'Christian pilgrims and pilgrimages -- Drama'
+- !lcsh 'Chaucer, Geoffrey, -1400 -- Drama'
+- !lcc 'PS'
+- GITenberg
+title: 'The Canterbury pilgrims : $b A comedy'
+url: http://www.gutenberg.org/ebooks/70526
